@@ -1,0 +1,13 @@
+Quản lý user, phần quyền
+Quản lý quầy, trụ
+Quản lý thành viên
+Quản lý thẻ
+Quản lý giao dịch ngân hàng
+Quản lý khu vui chơi
+Quản lý khu mua sắm
+Quản lý checkin( quẹt thẻ)
+
+Báo cáo: vẽ biểu đồ, xuất excel( ngày, tuần , tháng , năm)
+- Theo loại trò chơi(khu vui chơi)
+- Theo thành viên/thẻ
+Tích hợp đầu đọc thẻ RFID
